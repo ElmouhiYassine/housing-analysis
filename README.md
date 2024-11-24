@@ -46,9 +46,3 @@ The data is sourced from [Kaggle's Ames Housing Dataset](https://www.kaggle.com/
 - **Regression Analysis**: Key features influencing housing prices include `Overall Quality`, `Garage Area`, and `Total Basement Area`.
 
 ---
-
-## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/housing-analysis.git
-   cd housing-analysis
